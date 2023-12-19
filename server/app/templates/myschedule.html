@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Hello, {{user.username}}</h1>
+
+{% for period in periods %}
+<div>
+    <p>{{period.name}} | {{period.starting_hour}}:{{period.starting_minute}} - {{period.ending_hour}}:{{period.ending_minute}}</p>
+</div>
+{% endfor %}
+
+{% endblock %}

@@ -142,9 +142,9 @@ status: Not Started, In Progress, Finished
 
 no | issue no.| Assignment | Type | Status | Finish By | Notes
 ---|----|------------|------|--------|-----------|------
-1 || Design Document | Other | In Progress | 2023-12-21 |
-2 || Create a git and publish it | Other | Not Started | 2023-12-19 |
-3 || Create a changelog file | Other | Not Started |
+1 || Design Document | Other | Finished | 2023-12-21 |
+2 || Create a git and publish it | Other | Finished | 2023-12-19 |
+3 || Create a changelog file | Other | Finished |
 4 || Flask structure | Coding | Not Started | 2023-12-21 |
 5 || User Object | Coding | Not Started| |
 6 || Period Object implementation | Coding | Not Started | |
